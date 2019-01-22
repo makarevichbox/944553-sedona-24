@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Евгений](https://up.htmlacademy.ru/htmlcss/24/user/944553).
+* Студент: [Евгений Макаревич](https://up.htmlacademy.ru/htmlcss/24/user/944553).
 * Наставник:[Дмитрий Усов](https://htmlacademy.ru/profile/id172343).
 
 ---
